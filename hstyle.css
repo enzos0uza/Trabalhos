@@ -1,0 +1,88 @@
+#navbar{
+    background-color: rgb(226, 49, 49);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+body{
+    margin: 0%;
+
+}
+
+#imagem{
+    height:50%;
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
+
+main{
+    background-color: rgb(22, 22, 116);
+    color: #ffffff;
+
+}
+
+.conteiner{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(211, 62, 62);
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.box{
+  height: 300px;
+  width: 300px;
+  background-color: rgb(26, 26, 167); 
+  overflow: hidden;
+}
+
+.mary{
+    height: 100%;
+  width: 100%;
+}
+
+.rei{
+    height: 100%;
+  width: 100%;
+}
+
+.ben{
+    height: 100%;
+  width: 100%;
+}
+
+.conteiner2{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(110, 69, 143);
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(67, 12, 92); 
+    overflow: hidden;
+  }
+
+.abu{
+    height: 100%;
+  width: 100%;
+}
+
+.due{
+    height: 100%;
+  width: 100%;
+}
+
+.lar{
+    height: 100%;
+  width: 100%;
+}
+
